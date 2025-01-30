@@ -1,4 +1,8 @@
 # 🍕 Restaurant Website Project  
+## 🚀 Live Demo  
+🔗 [Visit the Website Here](https://udaydocs.github.io/Restaurant/)  
+
+---
 
 ## ✨ Features  
 
@@ -7,11 +11,4 @@
   - Each item includes images and prices.  
 - ✉️ **Contact Form:** Users can fill in their **name**, **email**, and **message** to reach out.  
 - 🔗 **Interactive Buttons:** Smooth navigation between different pages using intuitive buttons.  
-- 📱 **Responsive Design:** Fully adaptable for both desktop and mobile screens.  
-
----  
-
-## 🚀 Live Demo  
-🔗 [Visit the Website Here](https://udaydocs.github.io/Restaurant/)  
-
----
+- 📱 **Responsive Design:** Fully adaptable for desktop and mobile screens.  
